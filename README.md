@@ -1,6 +1,6 @@
 # Resume
 
-Plugin is used for create and use an image using Packer on Drone Pipeline
+Plugin is used for create and use an image with Terraform using Packer in Drone Pipeline
 
 ## How to Use
 ```
